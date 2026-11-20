@@ -1,0 +1,42 @@
+p
+{
+    color: rgb(181, 15, 84);
+    font-family: 'Courier New', Courier, monospace;
+    font-size:16px;
+    font-weight: bold;
+    font-style: italic;
+    line-height: 5;
+} 
+#para 
+{
+    color: rgb(51, 15, 181);
+    font-family: 'Courier New', Courier, monospace;
+    font-size:16px;
+    font-weight: bold;
+    font-style: italic;
+    line-height: 5;
+} 
+
+h1
+{
+    color: rgb(26, 161, 73);
+    font-family: 'Arial', sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    font-style: normal;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+h2
+{
+    color: rgb(231, 120, 9);
+    font-family: 'Arial', sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    font-style: normal;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
